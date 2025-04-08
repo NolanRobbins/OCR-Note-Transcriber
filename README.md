@@ -18,12 +18,3 @@ A smart document processing system that combines OCR with Large Language Models 
 - 🔍 Contextual understanding of notes
 - 📤 Markdown and text file export
 
-## Installation
-
-1. **Prerequisites**:
-   - Python 3.8+
-   - Tesseract OCR ([Installation guide](https://github.com/tesseract-ocr/tesseract))
-
-2. **Install dependencies**:
-```bash
-pip install pytesseract opencv-python python-dotenv openai
