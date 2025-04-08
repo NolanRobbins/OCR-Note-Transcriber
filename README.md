@@ -10,8 +10,8 @@ A smart document processing system that combines OCR with Large Language Models 
 
 ## Features
 
-- 📖 Handwritten text recognition using Tesseract OCR
-- 🧠 Context-aware text processing with GPT-4
+- 📖 Handwritten text recognition using Claude 3.7 Sonnet
+- 🧠 Context-aware text processing with Claude 3.7 Sonnet API
 - ✅ Automatic formatting and error correction
 - 🌐 Multi-language support
 - 💡 Intelligent summarization and key point extraction
