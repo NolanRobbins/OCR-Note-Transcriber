@@ -66,7 +66,7 @@ def process_image(uploaded_file, index):
                         "type": "text",
                         "text": """Analyze the text in the provided image. Extract all readable content
                         and present it in a structured Markdown format that is clear, concise, 
-                        and well-organized. Anytime you see a Figure, export the image as is."""
+                        and well-organized."""
                     },
                     {
                         "type": "image",
